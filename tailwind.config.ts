@@ -16,6 +16,13 @@ const config: Config = {
       },
       backgroundColor:{
         "primary": '#EFEFEE',
+        "line":"#CAC6BB",
+      },
+      maxWidth:{
+        'width-header': '120rem',
+      },
+      fontFamily:{
+        'sans': ['Inter', 'sans-serif'],
       },
       
     },
